@@ -1,0 +1,8 @@
+.container{
+  width: auto;
+  height: 750px;
+  background-color: #B3E8F5;
+  text-align: center;
+  font-size: 2em;
+
+}
